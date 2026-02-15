@@ -1,44 +1,44 @@
 # ============================================================================
 # AYURVEDIC AI BACKEND - REQUIREMENTS
 # ============================================================================
-# Python 3.8+ required
+# Python 3.9+ required
 
 # Core Web Framework
-flask==3.0.0
+flask==3.0.2
 flask-cors==4.0.0
 
 # Rate Limiting & Security
-flask-limiter==3.5.0
+flask-limiter==3.5.1
 werkzeug==3.0.1
 
 # Machine Learning & NLP
-torch==2.1.2
-transformers==4.36.2
-tokenizers==0.15.0
+torch==2.2.0
+transformers==4.38.0
+tokenizers==0.15.2
 
 # Additional ML dependencies
-numpy==1.24.3
-scipy==1.11.4
-huggingface-hub==0.20.2
-safetensors==0.4.1
+numpy==1.26.4
+scipy==1.12.0
+huggingface-hub==0.21.0
+safetensors==0.4.2
 
 # Production Server (WSGI)
 gunicorn==21.2.0
-gevent==23.9.1
+gevent==24.2.1
 
 # Environment & Configuration
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 
 # Logging & Monitoring
 python-json-logger==2.0.7
 
 # Data Validation
-pydantic==2.5.3
+pydantic==2.6.1
 
 # Utilities
 requests==2.31.0
-urllib3==2.1.0
-certifi==2023.11.17
+urllib3==2.2.0
+certifi==2024.2.2
 
 # Development & Testing (optional - comment out for production)
 # pytest==7.4.3

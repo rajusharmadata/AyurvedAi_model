@@ -27,7 +27,7 @@ class Config:
     """Application configuration"""
     # Server
     HOST = os.getenv('HOST', '0.0.0.0')
-    PORT = int(os.getenv('PORT', 5000))
+    PORT = int(os.getenv('PORT', 5000))  # Render sets PORT automatically
     DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
 
     # Model
