@@ -1,16 +1,12 @@
-# Simple Requirements - Works on Render
+# Alternative Solution - Force Binary Wheels Only
+# Add this to your build command on Render:
+# pip install --only-binary=:all: -r requirements.txt
+
 flask==3.0.2
 flask-cors==4.0.0
 flask-limiter==3.5.1
-werkzeug==3.0.1
-
-# ML Libraries (Latest versions available on Render)
-torch==2.9.0
-transformers==4.38.0
-
-# Production Server
 gunicorn==21.2.0
-
-# Basic utilities
+torch==2.9.0
+transformers==4.50.0
 python-dotenv==1.0.1
 requests==2.31.0
