@@ -1,0 +1,146 @@
+Customer: I have a severe headache and feeling stressed
+Agent: For headache and stress relief, I recommend Brahmi tablets. Take 1 tablet twice daily after meals with warm water. Also try Ashwagandha powder - mix 1 teaspoon with warm milk before bedtime. This combination will help reduce stress and relieve headaches naturally.
+
+Customer: I'm having trouble sleeping at night
+Agent: For better sleep, I suggest Ashwagandha capsules - take 1 capsule with warm milk 30 minutes before bedtime. You can also try Jatamansi powder mixed with honey. Drink warm Brahmi tea in the evening. Avoid caffeine after 4 PM and maintain a regular sleep schedule.
+
+Customer: My digestion is very poor and I feel bloated
+Agent: For digestion issues, take Triphala churna - 1 teaspoon with warm water before bedtime. Also use Hingvastak churna - half teaspoon after meals. Drink ginger tea throughout the day. Avoid heavy, oily foods and eat smaller meals. Ajwain water in the morning also helps.
+
+Customer: I have joint pain in my knees
+Agent: For joint pain, I recommend Yograj Guggulu - 2 tablets twice daily after meals. Apply Mahanarayan oil on the affected area and massage gently. Take Ashwagandha powder with warm milk daily. Include turmeric in your diet. Do gentle exercises and avoid sitting cross-legged for long periods.
+
+Customer: I'm suffering from acidity and heartburn
+Agent: For acidity, take Avipattikar churna - 1 teaspoon with cold water before meals. Drink coconut water daily. Amla juice in the morning is very effective. Avoid spicy, oily, and fried foods. Eat smaller meals and don't lie down immediately after eating. Gulkand with milk also helps.
+
+Customer: I have hair fall problem
+Agent: For hair fall, use Bhringraj oil for head massage twice a week. Take Brahmi and Amla powder - 1 teaspoon each with water daily. Use Triphala powder as a hair mask once weekly. Eat more protein and iron-rich foods. Apply onion juice to scalp weekly. Reduce stress and get adequate sleep.
+
+Customer: I feel very weak and tired all the time
+Agent: For weakness and fatigue, take Chyawanprash - 1 tablespoon with warm milk daily. Ashwagandha powder with milk in the evening helps build strength. Include Shatavari powder for energy. Eat dates, almonds, and raisins daily. Ensure 7-8 hours of sleep and drink plenty of water.
+
+Customer: I have skin problems with acne and pimples
+Agent: For acne, take Neem capsules - 1 capsule twice daily. Drink Neem and Turmeric water in the morning. Apply Manjistha and Sandalwood paste on affected areas. Use Kumkumadi oil at night. Avoid oily, spicy foods and dairy products. Drink 8-10 glasses of water daily.
+
+Customer: I'm having cough and cold
+Agent: For cough and cold, take Sitopaladi churna with honey - half teaspoon thrice daily. Drink Tulsi tea with ginger and honey. Talisadi churna is also effective. Do steam inhalation with eucalyptus oil. Avoid cold drinks, ice cream, and refrigerated foods. Keep your body warm and rest well.
+
+Customer: I have high blood pressure
+Agent: For high blood pressure, take Arjuna powder - 1 teaspoon with warm water twice daily. Drink Punarnava tea daily. Include garlic and cardamom in diet. Practice pranayama and meditation daily. Reduce salt intake. Avoid stress, smoking, and alcohol. Regular morning walks are beneficial. Monitor BP regularly.
+
+Customer: My immunity is very low and I get sick frequently
+Agent: To boost immunity, take Giloy juice - 2 tablespoons daily on empty stomach. Chyawanprash is excellent - 1 tablespoon twice daily. Include Tulsi, Turmeric, and Ginger tea. Take Amla powder with honey. Eat fresh fruits and vegetables. Exercise regularly, sleep well, and manage stress levels.
+
+Customer: I have diabetes and high sugar levels
+Agent: For diabetes management, take Karela juice in the morning. Gudmar powder - 1 teaspoon before meals helps control sugar. Include Methi seeds soaked overnight. Jamun seed powder is very effective. Avoid sugar, white rice, and refined flour. Exercise daily for 30 minutes. Eat small frequent meals and monitor sugar levels regularly.
+
+Customer: I'm suffering from constipation
+Agent: For constipation, take Triphala churna - 1 teaspoon with warm water at bedtime. Drink warm water with lemon in the morning. Isabgol husk with water before sleep helps. Include fiber-rich foods, fruits, and vegetables. Drink 8-10 glasses of water daily. Exercise regularly and establish a routine.
+
+Customer: I have anxiety and feel very nervous
+Agent: For anxiety, take Brahmi tablets - 1 tablet twice daily. Ashwagandha powder with milk at night reduces anxiety. Practice Shankhpushpi syrup - 2 teaspoons twice daily. Do deep breathing exercises and meditation. Avoid caffeine and sugar. Get regular exercise. Practice yoga, especially Shavasana and Anulom Vilom.
+
+Customer: My eyes feel tired and strained
+Agent: For eye strain, take Triphala eye wash - soak Triphala overnight, strain and wash eyes. Amla juice improves eye health. Apply rose water on closed eyes. Include Shatavari powder in diet. Eat carrots, spinach, and almonds. Take breaks from screen time every 20 minutes. Do eye exercises regularly.
+
+Customer: I have lower back pain
+Agent: For back pain, take Yograj Guggulu - 2 tablets twice daily. Apply warm Mahanarayan oil and massage gently. Take Dashmoola powder with warm water. Use hot water bag for relief. Avoid heavy lifting and sitting for long hours. Do gentle back stretches. Sleep on a firm mattress.
+
+Customer: I'm having irregular periods
+Agent: For irregular periods, take Ashoka powder - 1 teaspoon twice daily with water. Shatavari powder with milk helps regulate cycles. Include Aloe vera juice daily. Maintain healthy weight and regular exercise. Avoid junk food and stress. Practice yoga, especially Malasana and Baddha Konasana. Consult doctor if problem persists.
+
+Customer: I have thyroid problems
+Agent: For thyroid support, take Kanchanar Guggulu - 2 tablets twice daily. Include iodine-rich foods like seaweed. Ashwagandha helps balance thyroid. Avoid soy products and gluten if sensitive. Practice Sarvangasana and Halasana yoga poses. Regular exercise and stress management are important. Monitor thyroid levels regularly.
+
+Customer: My child has frequent stomach aches
+Agent: For children's stomach ache, give Hingvastak churna - quarter teaspoon with honey. Ajwain water is safe and effective. Gentle tummy massage with warm ghee helps. Give light, easy-to-digest foods. Avoid cold drinks and heavy meals. If pain persists or severe, please consult a pediatrician immediately.
+
+Customer: I have gas and bloating problems
+Agent: For gas and bloating, take Hingvastak churna - half teaspoon after each meal. Drink Ajwain water throughout the day. Jeera water before meals helps digestion. Avoid gas-forming foods like beans, cabbage, carbonated drinks. Chew food slowly. Walk for 10 minutes after meals. Fennel seeds after meals are beneficial.
+
+Customer: I'm experiencing menopause symptoms
+Agent: For menopause symptoms, take Shatavari powder - 1 teaspoon with milk twice daily. Ashwagandha helps with mood swings and hot flashes. Include flax seeds in diet. Brahmi tea reduces anxiety. Avoid spicy foods, caffeine, and alcohol. Practice cooling pranayama. Regular exercise and adequate sleep are essential. Stay hydrated.
+
+Customer: I have urinary tract infection symptoms
+Agent: For UTI, drink plenty of water - at least 3 liters daily. Gokshura powder - 1 teaspoon twice daily helps. Cranberry juice is beneficial. Punarnava tea supports urinary health. Avoid holding urine for long. Maintain personal hygiene. Avoid spicy and sour foods. If symptoms persist, please consult a doctor immediately.
+
+Customer: My cholesterol levels are high
+Agent: For high cholesterol, take Arjuna powder - 1 teaspoon twice daily with warm water. Include garlic and fenugreek in diet. Guggulu supplements help reduce cholesterol. Avoid fried, oily, and processed foods. Eat oats, nuts, and olive oil. Exercise daily for 30-45 minutes. Check cholesterol levels regularly.
+
+Customer: I have a sore throat
+Agent: For sore throat, gargle with warm salt water 3-4 times daily. Take Sitopaladi churna with honey. Drink warm Turmeric milk. Yashtimadhu powder with honey soothes throat. Avoid cold beverages and ice cream. Stay hydrated with warm fluids. Rest your voice. If fever develops, consult a doctor.
+
+Customer: I'm having breathing problems and asthma
+Agent: For breathing issues, take Vasavaleha - 1 teaspoon twice daily. Talisadi churna with honey helps. Practice Pranayama, especially Anulom Vilom daily. Avoid dust, smoke, and allergens. Keep indoor air clean. Tulsi tea is beneficial. Avoid cold foods and drinks. Regular exercise improves lung capacity. Consult doctor for severe symptoms.
+
+Customer: I have dark circles under my eyes
+Agent: For dark circles, apply cold cucumber slices or rose water daily. Take Triphala internally for detoxification. Almond oil massage under eyes at night. Get adequate sleep - 7-8 hours. Stay hydrated. Include iron-rich foods in diet. Amla juice improves circulation. Reduce screen time and stress.
+
+Customer: I'm suffering from arthritis pain
+Agent: For arthritis, take Yograj Guggulu - 2 tablets twice daily after meals. Shallaki (Boswellia) capsules reduce inflammation. Apply warm sesame oil massage. Include turmeric and ginger in diet. Avoid sour and cold foods. Practice gentle yoga and swimming. Maintain healthy weight. Keep joints warm in cold weather.
+
+Customer: I have dental problems and gum bleeding
+Agent: For dental health, use Triphala powder for mouth rinse daily. Clove oil on affected tooth relieves pain. Neem stick for brushing strengthens gums. Mix Turmeric powder with mustard oil and massage gums. Avoid sugary foods. Eat calcium-rich foods. Oil pulling with coconut oil helps. Visit dentist regularly.
+
+Customer: My memory is weak and I forget things
+Agent: For memory improvement, take Brahmi powder - 1 teaspoon with ghee daily. Shankhpushpi syrup - 2 teaspoons twice daily. Include almonds, walnuts in diet. Ashwagandha improves brain function. Practice meditation and mental exercises. Get adequate sleep. Reduce stress. Solve puzzles and read regularly. Stay socially active.
+
+Customer: I have excessive sweating problem
+Agent: For excessive sweating, take Chandanasava - 3 teaspoons twice daily after meals. Apply Sandalwood powder paste on body. Drink plenty of water. Wear cotton clothes. Avoid spicy foods, caffeine, and alcohol. Practice Sheetali pranayama. Use natural deodorants. Take cool showers. Manage stress levels effectively.
+
+Customer: I'm having fever
+Agent: For fever, take Sudarshan churna - 1 teaspoon with honey thrice daily. Drink Tulsi and ginger tea frequently. Take adequate rest. Stay hydrated with water and fresh juices. Apply cold compress on forehead if temperature is high. Eat light, easy-to-digest food. If fever persists beyond 3 days or is very high, consult doctor immediately.
+
+Customer: I have mouth ulcers
+Agent: For mouth ulcers, gargle with Triphala water 3-4 times daily. Apply honey or ghee on ulcers. Drink coconut water. Avoid spicy, sour, and hot foods. Take Yashtimadhu powder with milk. Include plenty of fruits and vegetables. Stay hydrated. Maintain oral hygiene. If ulcers persist, consult a doctor.
+
+Customer: I'm feeling very hot all the time
+Agent: For excess body heat, drink lots of water and coconut water. Eat cooling foods like cucumber, watermelon. Take Gulkand - 1 teaspoon twice daily. Drink coriander water. Avoid spicy, fried foods and alcohol. Wear light cotton clothes. Practice Sheetali and Sheetkari pranayama. Take cool baths. Apply Sandalwood paste.
+
+Customer: I have varicose veins problem
+Agent: For varicose veins, take Gotu Kola (Brahmi) internally. Apply Mahanarayan oil with gentle upward massage. Elevate legs while resting. Wear compression stockings. Exercise regularly, especially walking and swimming. Avoid standing or sitting for long periods. Maintain healthy weight. Include vitamin C and fiber-rich foods. Avoid tight clothing.
+
+Customer: I'm having fatty liver
+Agent: For fatty liver, take Kutki powder - quarter teaspoon twice daily with honey. Drink Aloe vera juice daily. Punarnava helps liver detoxification. Avoid alcohol, fried, and fatty foods completely. Include turmeric, garlic, and green leafy vegetables. Exercise daily. Maintain healthy weight. Drink plenty of water. Regular liver function tests are important.
+
+Customer: My child has weak immunity
+Agent: For child's immunity, give Chyawanprash - 1 teaspoon daily with milk. Tulsi and honey mixture is safe. Include seasonal fruits and vegetables. Give Amla juice or powder. Ensure proper sleep and outdoor play. Avoid junk food and cold drinks. Giloy juice (age-appropriate dose) boosts immunity. Keep vaccinations updated.
+
+Customer: I have vertigo and dizziness
+Agent: For vertigo, take Brahmi tablets twice daily. Shankhpushpi syrup helps with dizziness. Stay hydrated. Avoid sudden head movements. Get adequate rest. Practice Bhramari pranayama. Include ginger tea. Avoid caffeine and alcohol. Maintain regular meal times. If vertigo is severe or persistent, please consult a doctor immediately.
+
+Customer: I'm having kidney stone problems
+Agent: For kidney stones, drink plenty of water - 3-4 liters daily. Take Gokshura powder - 1 teaspoon twice daily. Punarnava tea helps. Drink lemon water throughout the day. Avoid spinach, tomatoes, and excessive salt. Include Varuna bark decoction. Avoid holding urine. Regular physical activity helps. Consult doctor for proper diagnosis and treatment.
+
+Customer: I have sunburn on my skin
+Agent: For sunburn, apply fresh Aloe vera gel generously. Use cold milk compress. Apply Sandalwood and rose water paste. Drink plenty of water. Take cool baths. Apply coconut oil after healing begins. Include vitamin C and E rich foods. Avoid further sun exposure. Use natural sunscreen. If severe blistering occurs, consult doctor.
+
+Customer: I'm experiencing panic attacks
+Agent: For panic attacks, take Brahmi and Ashwagandha combination. Practice deep breathing - inhale for 4, hold for 4, exhale for 6. Shankhpushpi syrup helps calm mind. Avoid caffeine and sugar. Practice regular meditation. Get adequate sleep. Exercise daily. Jatamansi powder reduces anxiety. If attacks are frequent, please consult a mental health professional.
+
+Customer: I have ringing in ears (tinnitus)
+Agent: For tinnitus, apply warm sesame oil drops in ears (2-3 drops). Take Brahmi powder internally. Practice Pranayama daily. Avoid loud noises and headphones. Reduce caffeine and salt. Manage stress levels. Get adequate sleep. Include magnesium-rich foods. If ringing persists or worsens, consult an ENT specialist.
+
+Customer: My nails are brittle and breaking
+Agent: For nail health, take Amla powder with honey daily. Apply coconut oil on nails and cuticles nightly. Include biotin-rich foods like eggs and nuts. Take Shatavari powder for overall nutrition. Ensure adequate protein intake. Stay hydrated. Avoid harsh chemicals and nail polish removers. Massage nails regularly with almond oil.
+
+Customer: I have chronic sinusitis
+Agent: For sinusitis, do steam inhalation with eucalyptus oil twice daily. Take Trikatu churna with honey. Use Anu Taila nasal drops - 2 drops in each nostril. Drink ginger and turmeric tea. Avoid cold foods and dairy products. Practice Jala Neti daily. Stay hydrated. Use humidifier at home. If persistent, consult doctor.
+
+Customer: I'm having night sweats
+Agent: For night sweats, take Shatavari powder with milk before bed. Drink Brahmi tea in evening. Avoid spicy foods and alcohol at night. Wear breathable cotton clothes. Keep bedroom cool. Practice Sheetali pranayama. Stay hydrated during day. Manage stress levels. Ashwagandha helps balance hormones. If persistent, consult a doctor.
+
+Customer: I have food allergies and reactions
+Agent: For food allergies, take Haridra (Turmeric) capsules to reduce inflammation. Build immunity with Giloy juice. Avoid known allergens completely. Maintain food diary. Include probiotics like curd. Take Neem capsules to purify blood. Drink plenty of water. Practice stress management. If severe reactions occur, seek immediate medical help.
+
+Customer: My voice has become hoarse
+Agent: For hoarse voice, gargle with warm salt water regularly. Take Yashtimadhu powder with honey. Avoid cold drinks and ice cream. Stay hydrated with warm fluids. Rest your voice - avoid shouting. Drink warm Turmeric milk. Chew Mulethi stick. Steam inhalation helps. Avoid smoking and polluted air. If hoarseness persists beyond 2 weeks, consult doctor.
+
+Customer: I have muscle cramps frequently
+Agent: For muscle cramps, ensure adequate hydration - drink 8-10 glasses water daily. Take Ashwagandha powder for muscle strength. Include bananas, dates, and coconut water for potassium. Massage affected area with warm sesame oil. Stretch regularly before and after exercise. Include magnesium-rich foods like nuts and seeds. Maintain electrolyte balance.
+
+Customer: I'm having heel pain
+Agent: For heel pain, massage with warm Mahanarayan oil. Take Yograj Guggulu - 2 tablets twice daily. Apply turmeric paste for inflammation. Do gentle foot stretches. Avoid walking barefoot on hard surfaces. Wear comfortable shoes with good support. Maintain healthy weight. Soak feet in warm salt water. If pain persists, consult orthopedic doctor.
+
+Customer: I have hormonal imbalance
+Agent: For hormonal balance, take Shatavari powder - 1 teaspoon with milk twice daily. Ashwagandha regulates hormones. Include flax seeds in diet. Practice yoga regularly. Manage stress through meditation. Get adequate sleep - 7-8 hours. Avoid processed foods and sugar. Include healthy fats. Exercise regularly. Consult doctor for proper diagnosis and treatment.
